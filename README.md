@@ -25,3 +25,6 @@ These scripts are designed for:
 
 ## 👨‍🏫 Author
 Dr. Ashish Katyal
+
+## 📌 DOI
+https://doi.org/10.5281/zenodo.19312063
